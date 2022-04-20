@@ -2,8 +2,8 @@
 ========
 Test effort to put java program with javadoc onto github (and gh-pages)
 
-Note: "GitHub serves static HTML files that are in the gh-pages folder of your 
-repo as http://your_username.github.com/your_repo/ ."
+Note: "GitHub serves static HTML files that are in the gh-pages branch of your 
+repo as http://your_username.github.com/your_repo/ ." 
 
 ## Questions: 
 
