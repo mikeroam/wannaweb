@@ -4,6 +4,7 @@ Test effort to put java program with javadoc onto github (and gh-pages)
 
 Note: "GitHub serves static HTML files that are in the gh-pages branch of your 
 repo as http://your_username.github.com/your_repo/ ." 
+E.G: https://mikeroam.github.com/wannaweb
 (Branches appear under the "< > Code" menu, and are usually "master" and "gh-pages".)
 
 ## Questions: 
