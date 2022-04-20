@@ -1,11 +1,12 @@
-wannaweb
+# wannaweb
 ========
-test effort to put java program with javadoc onto github (and gh-pages)
+Test effort to put java program with javadoc onto github (and gh-pages)
 
 Note: "GitHub serves static HTML files that are in the gh-pages folder of your 
 repo as http://your_username.github.com/your_repo/ ."
 
-Questions: 
+## Questions: 
+
 [] How does N see the gh-pages "branch" of wannaweb?? Does mike have to explicitly share that branch?
 
 [] Can we edit html pages on github from web browser? (In the same way we're editing this readme)
